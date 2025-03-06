@@ -1,2 +1,1 @@
-langgenius/dify-api:1.0.0
-langgenius/dify-web:1.0.0
+semitechnologies/weaviate:1.19.0
