@@ -8,6 +8,5 @@ certbot/certbot
 semitechnologies/weaviate:1.19.0
 langgenius/qdrant:v1.7.3
 ghcr.io/chroma-core/chroma:0.5.20
-opensearch-dashboards
 docker.elastic.co/elasticsearch/elasticsearch:8.14.3
 docker.elastic.co/kibana/kibana:8.14.3
